@@ -1,0 +1,9 @@
+* bt-semaphore
+
+A simple semaphore class for bordeaux-threads inspired by SBCL's semaphore.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/rmoritz/bt-semaphore.git |
+| commit  | 46b4bf3                                         |
+| systems | bt-semaphore                                    |
+|---------+-------------------------------------------------|
